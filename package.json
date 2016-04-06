@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/niahmiah/mongoose-transact.git"
+    "url": "git://github.com/cecofreeman/mongoose-transact.git"
   },
   "keywords": [
     "mongo",
